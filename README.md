@@ -1,1 +1,2 @@
 # 4-bit-parallel-adder-verilog-
+A 4-bit binary adder is a fundamental electronic circuit used to do addition operations. The adder takes two 4-bit inputs, A and B to produce a 4-bit output, sum along with a carry out. This means you can calculate 1111+1111, which will give you 11110 ( 15+15 = 30). unlike a half adder which uses one half adder and one full adder, the 4-bit adder uses one half adder and 3 full adders. The logic gates used in this circuit are XOR, AND, OR
